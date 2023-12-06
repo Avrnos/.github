@@ -1,4 +1,4 @@
-# Atom Engine CodeCraft: Apex of Coding Mastery 🌐💻✨
+# Atom Engine🌐💻✨
 
 Welcome to Atom Engine CodeCraft, where coding mastery reaches its zenith! Immerse yourself in the transformative expertise of our dedicated team – a collective of seasoned coding architects committed to optimizing your game development experience within the Atom Engine framework.
 
