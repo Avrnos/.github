@@ -26,6 +26,10 @@ Get Involved
 We are always looking for passionate developers to join our mission. Here’s how you can get involved:
 
 **Star our repositories:** Show your support by starring our repositories on GitHub.
+
 **Submit issues:** Help us improve by reporting bugs and suggesting new features.
+
 **Contribute code:** Contribute to our projects by submitting pull requests.
+
 **pread the word:** Share our projects with your friends and colleagues to help us grow our community.
+
