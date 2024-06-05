@@ -19,8 +19,11 @@ We believe in the power of open source. All our scripts are open-source, and we 
 
 ## How to Get Started
 **Explore Our Repositories:** Browse our repositories to find the scripts and tools that suit your needs.
+
 **Read the Documentation:** Each repository includes detailed documentation to help you understand how to use the scripts effectively.
+
 **Join Our Community:** Connect with us on our community platforms to share your experiences, ask questions, and collaborate with other developers.
+
 **Contribute:** We welcome contributions! Check out our contribution guidelines to learn how you can help improve our projects.
 Get Involved
 We are always looking for passionate developers to join our mission. Here’s how you can get involved:
